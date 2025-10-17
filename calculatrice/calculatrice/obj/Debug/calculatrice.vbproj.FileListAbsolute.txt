@@ -1,0 +1,14 @@
+C:\LIG3\Vb.net\calculatrice\calculatrice\bin\Debug\calculatrice.exe.config
+C:\LIG3\Vb.net\calculatrice\calculatrice\bin\Debug\calculatrice.exe
+C:\LIG3\Vb.net\calculatrice\calculatrice\bin\Debug\calculatrice.pdb
+C:\LIG3\Vb.net\calculatrice\calculatrice\bin\Debug\calculatrice.xml
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.AssemblyReference.cache
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.Form2.resources
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.Form3.resources
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.Resources.resources
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.GenerateResource.cache
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.vbproj.CoreCompileInputs.cache
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.exe
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.xml
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.pdb
+C:\LIG3\Vb.net\calculatrice\calculatrice\obj\Debug\calculatrice.exe.config
